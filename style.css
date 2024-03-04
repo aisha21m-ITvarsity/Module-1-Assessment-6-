@@ -1,0 +1,124 @@
+.gallery img{
+    max-width: 30%,
+
+}
+#menu{
+    width: 100%;
+    height: 55px;
+    background-color: pink;
+    padding-top: 20px;
+}
+
+#menu a{
+    color: white;
+    font-family:serif;
+    font-size: 30px;
+    text-decoration:inherit;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+   
+}
+
+#menu a:hover{
+    color: #F777A3;
+}
+
+h1{
+    font-family:'Palatino', serif;
+    color:pink;
+    font-size: 45px;
+    text-decoration:underline;
+    
+}
+
+#about{
+    color: #F777A3;
+    font-family:cursive;
+    font-size: 20px;
+}
+
+#green{
+    color:green;
+
+}
+
+#pink{
+    color:#F777A3;
+}
+
+th{
+                font-weight: 600;
+                font-family:serif;
+                background-color: pink;
+                color: black;
+                padding-left: 6px;
+                padding-right:6px; 
+                padding-bottom:6px;
+                padding-top:6px;
+            }
+table{
+                font-family:inherit;
+                border-collapse:inherit;
+                border-width: 4px;
+                border-style:solid;
+                border-color: green;
+                border-collapse: collapse;
+                width: 40%;
+                white-space: pre-wrap;
+            }
+           
+button {
+    border-radius: 12px;
+    background-color: pink;
+    font-family: serif;
+    font-size: 25px;
+    color: white;
+    width: 200px;
+    height: 50px;
+}
+
+h3{
+   color:#F777A3;
+   font-family:serif;
+   text-decoration: underline
+}
+
+h2{
+    color: green;
+    font-family: 'Palatino', serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
